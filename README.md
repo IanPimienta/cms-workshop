@@ -2,4 +2,7 @@
 
 Materials for the MOLSSI workshop at SETCA 2019
 
-## This is a subtitle
+## Geometry analysis project
+This is practice for pushing files to github
+
+
